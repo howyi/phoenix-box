@@ -63,7 +63,7 @@ synced_folderを通したリモートのファイル変更は inotify-toolsに�
 | node | ^8.1.0      |
 | npm | ^5.0.3     |
 | Erlang | 7.2      |
-| Erlang | 1.4.4      |
-| Erlang | v1.2.4      |
+| Elixir | 1.4.4      |
+| Phoenix Framework | v1.2.4      |
 
 *2017/06/12時点*
