@@ -55,11 +55,15 @@ synced_folderを通したリモートのファイル変更は inotify-toolsに�
 上記設定でテンプレートの書き換えによるlive_reloadは有効化されるが、`brunch/sass-brunch`を使用している場合にscssファイルの反映が上手く行かない。解決策不明
 
 
-### 作成される環境
-Ubuntu 15.04
-psql (PostgreSQL) 9.4.5
-node v8.0.0
-npm 5.0.0
-Erlang 7.2
-Elixir 1.4.4
-Phoenix v1.2.4
+### 作成される環境  
+|               |       |
+| ------------- |-------------|
+| Ubuntu        | 15.04         |
+| psql (PostgreSQL)      | 9.4.5      |
+| node | ^8.0.0      |
+| npm | ^5.0.0      |
+| Erlang | 7.2      |
+| Erlang | 1.4.4      |
+| Erlang | v1.2.4      |
+
+*2017/06/12時点*
