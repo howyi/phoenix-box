@@ -11,7 +11,7 @@ rm -f erlang-solutions_1.0_all.deb
 
 npm cache clean
 npm install n -g
-n 8
+n 7
 apt-get purge -y npm
 ln -sf /usr/local/bin/npm /usr/bin/npm
 

@@ -60,8 +60,8 @@ synced_folderを通したリモートのファイル変更は inotify-toolsに�
 | ------------- |-------------|
 | Ubuntu        | 15.04         |
 | psql (PostgreSQL)      | 9.4.5      |
-| node | ^8.1.0      |
-| npm | ^5.0.3     |
+| node | ^7.10.0      |
+| npm | ^4.2.0     |
 | Erlang | 7.2      |
 | Elixir | 1.4.4      |
 | Phoenix Framework | v1.2.4      |
