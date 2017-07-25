@@ -10,7 +10,7 @@ https://github.com/git-for-windows/build-extra/releases
 2. vagrantのインストール https://www.vagrantup.com/docs/installation/index.html
 3. `vagrant plugin install vagrant-vbguest`  
 synced_folderのバージョン不一致を自動解決するプラグイン : https://github.com/dotless-de/vagrant-vbguest
-4. `git clone git@github.com:qrbys/phoenix-box.git`
+4. `git clone git@github.com:howyi/phoenix-box.git`
 5. `cd phoenix-box`
 6. `vagrant up`
 
