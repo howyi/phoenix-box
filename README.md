@@ -1,5 +1,5 @@
 # phoenix-box #
-vagrantのubuntu-15.04上で[Phoenix Framework](http://www.phoenixframework.org)を実行可能な状態まで作成するVagrantfile
+vagrantのubuntu-15.04上で[Phoenix Framework](http://www.phoenixframework.org)(v1.2.4)を実行可能な状態まで作成するVagrantfile
 
 Windowsの場合, Git for Windows SDKの使用を想定
 https://github.com/git-for-windows/build-extra/releases
